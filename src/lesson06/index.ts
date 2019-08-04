@@ -2,7 +2,7 @@ import { of } from 'rxjs';
 
 /**
  * JavaScript — Property Descriptor
- * https://codeburst.io/javascript-object-property-attributes-ac012be317e2*
+ * https://codeburst.io/javascript-object-property-attributes-ac012be317e2
  *
  */
 let man = {

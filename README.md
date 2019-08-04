@@ -17,4 +17,6 @@ experimental Typescript feature so it must be activated in tsconfig.json. Javasc
 
 ## Lesson 05 - RxJs Fundamentals
 
-## Lesson 06 -
+## Lesson 06 - JavaScript — Property Descriptor
+
+## Lesson 07 - The SOLID Principles
